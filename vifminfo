@@ -23,7 +23,7 @@
 # TUI:
 al
 q0
-v2
+v1
 ov
 m-1
 l2
@@ -85,8 +85,74 @@ d/Users/gcman105/devel/PythonProjects/waf_dapp
 	waf_dapp
 10
 d/Users/gcman105/devel/PythonProjects/waf_dapp/waf_dapp
-	schema.py
-3
+	..
+0
+d/Users/gcman105/devel/PythonProjects/waf_dapp
+	waf_dapp
+10
+d/Users/gcman105/devel/PythonProjects/waf_dapp/waf_dapp
+	__init__.py
+2
+d/Users/gcman105/devel/hugo/blog_gcman105
+	content
+4
+d/Users/gcman105/devel/hugo/blog_gcman105/content
+	posts
+5
+d/Users/gcman105/devel/hugo/blog_gcman105/content/posts
+	..
+0
+d/Users/gcman105/devel/hugo/blog_gcman105/content
+	posts
+5
+d/Users/gcman105/devel/hugo/blog_gcman105/content/posts
+	..
+0
+d/Users/gcman105/devel/hugo/blog_gcman105/content
+	notes
+4
+d/Users/gcman105/devel/hugo/blog_gcman105/content/notes
+	hugo
+1
+d/Users/gcman105/devel/hugo/blog_gcman105/content/notes/hugo
+	..
+0
+d/Users/gcman105/devel/hugo/blog_gcman105/content/notes
+	..
+0
+d/Users/gcman105/devel/hugo/blog_gcman105/content
+	about
+1
+d/Users/gcman105/devel/hugo/blog_gcman105/content/about
+	..
+0
+d/Users/gcman105/devel/hugo/blog_gcman105/content
+	pt
+6
+d/Users/gcman105/devel/hugo/blog_gcman105/content/pt
+	..
+0
+d/Users/gcman105/devel/hugo/blog_gcman105/content
+	posts
+5
+d/Users/gcman105/devel/hugo/blog_gcman105/content/posts
+	mango-chutney.md
+5
+d/Users/gcman105/devel/PythonProjects/waf_dapp
+	waf_dapp
+13
+d/Users/gcman105/devel/PythonProjects/waf_dapp/waf_dapp
+	..
+0
+d/Users/gcman105/devel/PythonProjects/waf_dapp
+	waf_dapp
+12
+d/Users/gcman105/dotfiles
+	..
+0
+d/Users/gcman105/devel/PythonProjects/waf_dapp
+	waf_dapp
+13
 d
 
 # Right window history (oldest to newest):
@@ -144,6 +210,9 @@ D/Users/gcman105
 D
 
 # Command line history (oldest to newest):
+:h
+:12
+:f
 :edit
 :q
 
@@ -151,11 +220,14 @@ D
 /rea
 
 # Prompt history (oldest to newest):
+ptest-js-sequence-diagrams.md
+ptemplate-post.md
+pmango-chutney.md
 
 # Local filter history (oldest to newest):
 
 # Registers:
-""/Users/gcman105/.local/share/vifm/Trash/000_schema.graphql
+""/Users/gcman105/devel/hugo/blog_gcman105/content/posts/template-post.md
 
 # Directory stack (oldest to newest):
 
@@ -170,7 +242,7 @@ t/Users/gcman105/.local/share/vifm/Trash/000_schema.graphql
 # State:
 f
 i1
-[.1
+[.0
 [F
 F
 I1
