@@ -9,10 +9,18 @@
 	/Users/gcman105/bin/
 	..
 1578599221
+'d
+	/Users/gcman105/devel/
+	..
+1579855624
 'h
 	/Users/gcman105/
 	..
 1578599221
+'k
+	/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts
+	_default
+1579879383
 'z
 	/Users/gcman105/.config/vifm
 	..
@@ -30,6 +38,129 @@ l2
 r2
 
 # Left window history (oldest to newest):
+d/Users/gcman105/devel/flask/flpymon
+	venv
+4
+d/Users/gcman105/devel/flask/flpymon/venv
+	..
+0
+d/Users/gcman105/devel/flask/flpymon
+	theapp
+3
+d/Users/gcman105/devel/lektor/GarysBlog
+	..
+0
+d/Users/gcman105/devel/lektor/AnnesBlog
+	..
+0
+d/Users/gcman105/devel/hugo/blog_ojofoto
+	..
+0
+d/Users/gcman105/devel/Lektor/GarysBlog
+	webpack
+7
+d/Users/gcman105/dotfiles/dot-vifm
+	colors
+2
+d/Users/gcman105/dotfiles/dot-vifm/colors
+	deoplete.log
+2
+d/Users/gcman105/dotfiles/dot-vifm
+	deoplete.log
+5
+d/Users/gcman105/devel/lektor/GarysBlog
+	webpack
+7
+d/Users/gcman105/devel/lektor/GarysBlog/parcel
+	configs
+1
+d/Users/gcman105/devel/lektor/GarysBlog/parcel/configs
+	..
+0
+d/Users/gcman105/devel/lektor/GarysBlog/parcel
+	package.json
+3
+d/Users/gcman105/devel/lektor/GarysBlog
+	parcel
+5
+d/Users/gcman105/devel/lektor/GarysBlog/parcel
+	configs
+1
+d/Users/gcman105/devel/lektor/GarysBlog/parcel/configs
+	..
+0
+d/Users/gcman105/devel/lektor/GarysBlog/parcel
+	package.json
+8
+d/Users/gcman105/devel/hugo/blog_gcman105/themes
+	hugo-theme-zzo
+2
+d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo
+	..
+0
+d/Users/gcman105/devel/hugo/blog_gcman105/themes
+	hugo-theme-ojo
+1
+d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo
+	..
+0
+d/Users/gcman105/devel/hugo/blog_gcman105/themes
+	hugo-theme-ojo
+1
+d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo
+	layouts
+1
+d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo/layouts
+	partials
+2
+d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo
+	layouts
+1
+d/Users/gcman105/devel/hugo/blog_gcman105/themes
+	hugo-theme-ojo
+1
+d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo
+	layouts
+1
+d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo/layouts
+	partials
+2
+d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo
+	layouts
+1
+d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo/layouts
+	partials
+2
+d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo
+	layouts
+1
+d/Users/gcman105/devel/hugo/blog_gcman105/themes
+	hugo-theme-ojo
+1
+d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo
+	layouts
+1
+d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo/layouts
+	_default
+1
+d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo/layouts/_default
+	..
+0
+d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo/layouts
+	partials
+2
+d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo
+	..
+0
+d/Users/gcman105/devel/hugo/blog_gcman105/themes
+	hugo-theme-zzo
+2
+d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo
+	..
+0
+d/Users/gcman105/devel/hugo/blog_gcman105/themes
+	hugo-theme-zzo
+2
 d/Users/gcman105
 	devel
 28
@@ -151,11 +282,188 @@ d/Users/gcman105/dotfiles
 	..
 0
 d/Users/gcman105/devel/PythonProjects/waf_dapp
-	waf_dapp
-13
+	..
+0
+d/Users/gcman105/devel/PythonProjects
+	..
+0
+d/Users/gcman105/devel
+	..
+0
+d/Users/gcman105
+	Dropbox
+7
+d/Users/gcman105/Dropbox
+	PARA
+23
+d/Users/gcman105/Dropbox/PARA
+	
+23
+d/Users/gcman105/Dropbox
+	WAFood
+41
+d/Users/gcman105/Dropbox/WAFood
+	..
+0
+d/Users/gcman105/Dropbox
+	..
+0
+d/Users/gcman105
+	devel
+28
+d/Users/gcman105/devel
+	vue
+36
+d/Users/gcman105/devel/vue
+	..
+0
+d/Users/gcman105/devel
+	WAFoods
+14
+d/Users/gcman105/devel/WAFoods
+	lwaf-docs
+2
+d/Users/gcman105/devel/WAFoods/lwaf-docs
+	package.json
+7
+d/Users/gcman105/devel/PythonProjects/waf_dapp
+	.pytest_cache
+3
+d/Users/gcman105
+	.bash_profile
+44
+d/Users/gcman105/devel/PythonProjects/waf_dapp
+	sales
+9
+d/Users/gcman105/devel/PythonProjects/waf_dapp/sales
+	tests.py
+11
 d
 
 # Right window history (oldest to newest):
+D/Users/gcman105/devel/hugo
+	blog_gcman105
+1
+D/Users/gcman105/devel/hugo/blog_gcman105
+	themes
+10
+D/Users/gcman105/devel/hugo/blog_gcman105/themes
+	hugo-theme-zzo
+2
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo
+	archetypes
+1
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/archetypes
+	..
+0
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo
+	assets
+2
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/assets
+	..
+0
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo
+	data
+3
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/data
+	..
+0
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo
+	exampleSite
+4
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/exampleSite
+	..
+0
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo
+	i18n
+5
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/i18n
+	..
+0
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo
+	images
+6
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/images
+	..
+0
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo
+	layouts
+7
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts
+	..
+0
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo
+	static
+8
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/static
+	..
+0
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo
+	layouts
+7
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts
+	..
+0
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo
+	layouts
+7
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts
+	_default
+1
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts/_default
+	..
+0
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts
+	_default
+1
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo/layouts/_default
+	..
+0
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo/layouts
+	..
+0
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo
+	..
+0
+D/Users/gcman105/devel/hugo/blog_gcman105/themes
+	hugo-theme-zzo
+2
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo
+	layouts
+7
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts
+	partials
+6
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts/partials
+	..
+0
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts
+	pt
+7
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts/pt
+	..
+0
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts
+	partials
+6
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts/partials
+	..
+0
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts
+	pt
+7
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts/pt
+	..
+0
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts
+	pt
+7
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts/pt
+	..
+0
+D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts
+	partials
+6
 D/Users/gcman105
 	Creative Cloud Files (archived) (1)
 6
@@ -205,21 +513,45 @@ D/Users
 	gcman105
 3
 D/Users/gcman105
-	devel
-30
+	..
+0
 D
 
 # Command line history (oldest to newest):
-:h
+:mkdir webpack
+:com touch test.mn
+:mkdir js
+:mkdir scss
+:mkdir parcel
+:mkdir configs
+:mkdir ojo
+:vs
+:mkdir layouts
+:mkdir _default
+:mkdir partials
+:sync _default/
+:sync partials/
 :12
 :f
 :edit
+:h
 :q
 
 # Search history (oldest to newest):
 /rea
+/dev
+/wa
 
 # Prompt history (oldest to newest):
+pANEWFILE.EXT
+ppackace.json
+pwebpack.config.js
+pnpm-support.ini
+ppackage.json
+pbabelr.rc
+pmain.scss
+pmain.js
+phugo-theme-ojo
 ptest-js-sequence-diagrams.md
 ptemplate-post.md
 pmango-chutney.md
@@ -238,6 +570,18 @@ t/Users/gcman105/.local/share/vifm/Trash/000_#schema.graphql#
 	/Users/gcman105/devel/PythonProjects/waf_dapp/waf_dapp/#schema.graphql#
 t/Users/gcman105/.local/share/vifm/Trash/000_schema.graphql
 	/Users/gcman105/devel/PythonProjects/waf_dapp/waf_dapp/schema.graphql
+t/Users/gcman105/.local/share/vifm/Trash/000_ANEWFILE.EXT
+	/Users/gcman105/dotfiles/dot-vifm/ANEWFILE.EXT
+t/Users/gcman105/.local/share/vifm/Trash/000_packace.json
+	/Users/gcman105/devel/lektor/GarysBlog/webpack/packace.json
+t/Users/gcman105/.local/share/vifm/Trash/000_deoplete.log
+	/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo/layouts/deoplete.log
+t/Users/gcman105/.local/share/vifm/Trash/000_partials(1)
+	/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts/partials(1)
+t/Users/gcman105/.local/share/vifm/Trash/000_partials
+	/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo/layouts/partials/body/partials
+t/Users/gcman105/.local/share/vifm/Trash/001_partials
+	/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo/layouts/partials
 
 # State:
 f
