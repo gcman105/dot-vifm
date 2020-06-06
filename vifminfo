@@ -12,7 +12,7 @@
 'd
 	/Users/gcman105/devel/
 	..
-1579855624
+1588938710
 'h
 	/Users/gcman105/
 	..
@@ -21,473 +21,322 @@
 	/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts
 	_default
 1579879383
-'z
-	/Users/gcman105/.config/vifm
-	..
-1578599221
 
 # Bookmarks:
 
 # TUI:
 al
-q0
-v1
+q1
+v2
 ov
 m-1
 l2
 r2
 
 # Left window history (oldest to newest):
-d/Users/gcman105/devel/flask/flpymon
-	venv
+d/Users/gcman105/devel/WAFoods/xs_waf/client
+	..
+0
+d/Users/gcman105/devel/WAFoods/xs_waf
+	server
 4
-d/Users/gcman105/devel/flask/flpymon/venv
-	..
-0
-d/Users/gcman105/devel/flask/flpymon
-	theapp
-3
-d/Users/gcman105/devel/lektor/GarysBlog
-	..
-0
-d/Users/gcman105/devel/lektor/AnnesBlog
-	..
-0
-d/Users/gcman105/devel/hugo/blog_ojofoto
-	..
-0
-d/Users/gcman105/devel/Lektor/GarysBlog
-	webpack
-7
-d/Users/gcman105/dotfiles/dot-vifm
-	colors
+d/Users/gcman105/devel/WAFoods/xs_waf/server
+	src
 2
-d/Users/gcman105/dotfiles/dot-vifm/colors
-	deoplete.log
-2
-d/Users/gcman105/dotfiles/dot-vifm
-	deoplete.log
-5
-d/Users/gcman105/devel/lektor/GarysBlog
-	webpack
-7
-d/Users/gcman105/devel/lektor/GarysBlog/parcel
-	configs
-1
-d/Users/gcman105/devel/lektor/GarysBlog/parcel/configs
-	..
-0
-d/Users/gcman105/devel/lektor/GarysBlog/parcel
-	package.json
-3
-d/Users/gcman105/devel/lektor/GarysBlog
-	parcel
-5
-d/Users/gcman105/devel/lektor/GarysBlog/parcel
-	configs
-1
-d/Users/gcman105/devel/lektor/GarysBlog/parcel/configs
-	..
-0
-d/Users/gcman105/devel/lektor/GarysBlog/parcel
-	package.json
-8
-d/Users/gcman105/devel/hugo/blog_gcman105/themes
-	hugo-theme-zzo
-2
-d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo
-	..
-0
-d/Users/gcman105/devel/hugo/blog_gcman105/themes
-	hugo-theme-ojo
-1
-d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo
-	..
-0
-d/Users/gcman105/devel/hugo/blog_gcman105/themes
-	hugo-theme-ojo
-1
-d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo
-	layouts
-1
-d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo/layouts
-	partials
-2
-d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo
-	layouts
-1
-d/Users/gcman105/devel/hugo/blog_gcman105/themes
-	hugo-theme-ojo
-1
-d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo
-	layouts
-1
-d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo/layouts
-	partials
-2
-d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo
-	layouts
-1
-d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo/layouts
-	partials
-2
-d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo
-	layouts
-1
-d/Users/gcman105/devel/hugo/blog_gcman105/themes
-	hugo-theme-ojo
-1
-d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo
-	layouts
-1
-d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo/layouts
-	_default
-1
-d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo/layouts/_default
-	..
-0
-d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo/layouts
-	partials
-2
-d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo
-	..
-0
-d/Users/gcman105/devel/hugo/blog_gcman105/themes
-	hugo-theme-zzo
-2
-d/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo
-	..
-0
-d/Users/gcman105/devel/hugo/blog_gcman105/themes
-	hugo-theme-zzo
-2
-d/Users/gcman105
-	devel
-28
-d/Users/gcman105/devel
-	PythonProjects
-12
-d/Users/gcman105/devel/PythonProjects
-	waf_dapp
-3
-d/Users/gcman105/devel/PythonProjects/waf_dapp
-	waf_dapp
-9
-d/Users/gcman105/devel/PythonProjects/waf_dapp/waf_dapp
-	..
-0
-d/Users/gcman105/devel/PythonProjects/waf_dapp
-	..
-0
-d/Users/gcman105/devel/PythonProjects
-	waf_dapp
-3
-d/Users/gcman105/devel/PythonProjects/waf_dapp
-	waf_dapp
-9
-d/Users/gcman105/devel/PythonProjects/waf_dapp/waf_dapp
-	..
-0
-d/Users/gcman105/devel/PythonProjects/waf_dapp
-	node_modules
-4
-d/Users/gcman105/devel/PythonProjects/waf_dapp/node_modules
-	..
-0
-d/Users/gcman105/devel/PythonProjects/waf_dapp
-	sales
-5
-d/Users/gcman105/devel/PythonProjects/waf_dapp/sales
-	..
-0
-d/Users/gcman105/devel/PythonProjects/waf_dapp
-	waf_dapp
-10
-d/Users/gcman105/devel/PythonProjects/waf_dapp/waf_dapp
-	..
-0
-d/Users/gcman105/devel/PythonProjects/waf_dapp
-	works
-11
-d/Users/gcman105/devel/PythonProjects/waf_dapp/works
-	..
-0
-d/Users/gcman105/devel/PythonProjects/waf_dapp
-	waf_dapp
-10
-d/Users/gcman105/devel/PythonProjects/waf_dapp/waf_dapp
-	..
-0
-d/Users/gcman105/devel/PythonProjects/waf_dapp
-	waf_dapp
-10
-d/Users/gcman105/devel/PythonProjects/waf_dapp/waf_dapp
-	__init__.py
-2
-d/Users/gcman105/devel/hugo/blog_gcman105
-	content
-4
-d/Users/gcman105/devel/hugo/blog_gcman105/content
-	posts
-5
-d/Users/gcman105/devel/hugo/blog_gcman105/content/posts
-	..
-0
-d/Users/gcman105/devel/hugo/blog_gcman105/content
-	posts
-5
-d/Users/gcman105/devel/hugo/blog_gcman105/content/posts
-	..
-0
-d/Users/gcman105/devel/hugo/blog_gcman105/content
-	notes
-4
-d/Users/gcman105/devel/hugo/blog_gcman105/content/notes
-	hugo
-1
-d/Users/gcman105/devel/hugo/blog_gcman105/content/notes/hugo
-	..
-0
-d/Users/gcman105/devel/hugo/blog_gcman105/content/notes
-	..
-0
-d/Users/gcman105/devel/hugo/blog_gcman105/content
-	about
-1
-d/Users/gcman105/devel/hugo/blog_gcman105/content/about
-	..
-0
-d/Users/gcman105/devel/hugo/blog_gcman105/content
-	pt
+d/Users/gcman105/devel/WAFoods/xs_waf/server/src
+	models
 6
-d/Users/gcman105/devel/hugo/blog_gcman105/content/pt
+d/Users/gcman105/devel/WAFoods/xs_waf/server/src/models
 	..
 0
-d/Users/gcman105/devel/hugo/blog_gcman105/content
-	posts
+d/Users/gcman105/devel/WAFoods/xs_waf/server/src
+	..
+0
+d/Users/gcman105/devel/WAFoods/xs_waf/server
+	..
+0
+d/Users/gcman105/devel/WAFoods/xs_waf
+	server
+4
+d/Users/gcman105/devel/WAFoods/xs_waf/server
+	src
+2
+d/Users/gcman105/devel/WAFoods/xs_waf/server/src
+	models
+6
+d/Users/gcman105/devel/WAFoods/xs_waf/server/src/models
+	..
+0
+d/Users/gcman105/devel/WAFoods/xs_waf/server/src
+	..
+0
+d/Users/gcman105/devel/WAFoods/xs_waf/server
+	..
+0
+d/Users/gcman105/devel/WAFoods/xs_waf
+	server
+4
+d/Users/gcman105/devel/WAFoods/xs_waf/server
+	yarn.lock
+10
+d/Users/gcman105/devel/WAFoods/xs_waf
+	.gitignore
 5
-d/Users/gcman105/devel/hugo/blog_gcman105/content/posts
-	mango-chutney.md
-5
-d/Users/gcman105/devel/PythonProjects/waf_dapp
-	waf_dapp
-13
-d/Users/gcman105/devel/PythonProjects/waf_dapp/waf_dapp
+d/Users/gcman105/apps/ansible/five57/roles
 	..
 0
-d/Users/gcman105/devel/PythonProjects/waf_dapp
-	waf_dapp
-12
-d/Users/gcman105/dotfiles
+d/Users/gcman105/apps/ansible/wafapp
 	..
 0
-d/Users/gcman105/devel/PythonProjects/waf_dapp
+d/Users/gcman105/apps/ansible
+	five57
+1
+d/Users/gcman105/apps/ansible/five57
 	..
 0
-d/Users/gcman105/devel/PythonProjects
+d/Users/gcman105/apps/ansible
 	..
 0
-d/Users/gcman105/devel
+d/Users/gcman105/apps
 	..
 0
 d/Users/gcman105
-	Dropbox
-7
-d/Users/gcman105/Dropbox
-	PARA
-23
-d/Users/gcman105/Dropbox/PARA
+	.config
+14
+d/Users/gcman105/.config
+	alacritty
+2
+d/Users/gcman105/.config/alacritty
+	alacritty.yml
+1
+d/Users/gcman105/Dropbox/Hemingway/exports
 	
+0
+d/Users/gcman105
+	
+0
+d/Users/gcman105/apps/ansible
+	
+0
+d/Volumes/Annes2TB-1/Downloads/2check
+	..
+0
+d/Volumes/Annes2TB-1/Downloads
+	2check
+1
+d/Users/gcman105/devel/PythonProjects/waf_dapp
+	static
+11
+d/Users/gcman105/devel/PythonProjects/waf_dapp/static
+	..
+0
+d/Users/gcman105/devel/PythonProjects/waf_dapp
+	static
+11
+d/Users/gcman105/devel/PythonProjects/waf_dapp/static
+	..
+0
+d/Users/gcman105/devel/PythonProjects/waf_dapp
+	static
+11
+d/Users/gcman105/devel/PythonProjects/waf_dapp/static
+	..
+0
+d/Users/gcman105/devel/PythonProjects/waf_dapp
+	static
+11
+d/Users/gcman105/devel/PythonProjects/waf_dapp/static
+	..
+0
+d/Users/gcman105/devel/PythonProjects/waf_dapp
+	manage.py
 23
-d/Users/gcman105/Dropbox
-	WAFood
-41
-d/Users/gcman105/Dropbox/WAFood
+d/Users/gcman105/devel/PythonProjects
+	waf_dapp
+3
+d/Users/gcman105/devel/PythonProjects/waf_dapp
+	waf_dapp
+15
+d/Users/gcman105/devel/PythonProjects/waf_dapp/waf_dapp
+	settings.py
+6
+d/Users/gcman105/devel/PythonProjects/waf_dapp
+	static
+11
+d/Users/gcman105/devel/PythonProjects/waf_dapp/static
 	..
 0
-d/Users/gcman105/Dropbox
+d/Users/gcman105/devel/PythonProjects/waf_dapp
 	..
 0
+d/Users/gcman105
+	..
+0
+d/Users
+	gcman105
+3
 d/Users/gcman105
 	devel
-28
-d/Users/gcman105/devel
-	vue
-36
-d/Users/gcman105/devel/vue
-	..
-0
+55
 d/Users/gcman105/devel
 	WAFoods
 14
 d/Users/gcman105/devel/WAFoods
-	lwaf-docs
-2
-d/Users/gcman105/devel/WAFoods/lwaf-docs
+	scoresreformed_titles_2a.csv
+16
+d/Users/gcman105
+	devel
+55
+d/Users/gcman105/devel
+	WAFoods
+0
+d/Users/gcman105
+	devel
+55
+d/Users/gcman105/devel
+	WAFoods
+14
+d/Users/gcman105/devel/WAFoods
+	waf-docs
+6
+d/Users/gcman105/devel/WAFoods/waf-docs
 	package.json
 7
-d/Users/gcman105/devel/PythonProjects/waf_dapp
-	.pytest_cache
+d/Users/gcman105/devel/WAFoods/waf-n-ordering
+	components
+4
+d/Users/gcman105/devel/WAFoods/waf-n-ordering/components
+	..
+0
+d/Users/gcman105/devel/WAFoods/waf-n-ordering
+	layouts
+5
+d/Users/gcman105/devel/WAFoods/waf-n-ordering/layouts
+	default.vue
+2
+d/Users/gcman105/devel/WAFoods/waf-n-ordering
+	pages
+8
+d/Users/gcman105/devel/WAFoods/waf-n-ordering/pages
+	index.vue
+2
+d/Users/gcman105/devel/WAFoods/waf-n-ordering
+	package.json
+22
+d/Users/gcman105/devel/WAFoods/waf-docs
+	docs
+2
+d/Users/gcman105/devel/WAFoods/waf-docs/docs
+	..
+0
+d/Users/gcman105/devel/WAFoods/waf-docs
+	docs
+2
+d/Users/gcman105/devel/WAFoods/waf-docs/docs
+	..
+0
+d/Users/gcman105/devel/WAFoods/waf-docs
+	docs
+2
+d/Users/gcman105/devel/WAFoods/waf-docs/docs
+	.vuepress
+1
+d/Users/gcman105/devel/WAFoods/waf-docs/docs/.vuepress
+	..
+0
+d/Users/gcman105/devel/WAFoods/waf-docs/docs
+	..
+0
+d/Users/gcman105/devel/WAFoods/waf-docs
+	docs
+2
+d/Users/gcman105/devel/WAFoods/waf-docs/docs
+	.vuepress
+1
+d/Users/gcman105/devel/WAFoods/waf-docs/docs/.vuepress
+	theme
+4
+d/Users/gcman105/devel/WAFoods/waf-n-ordering
+	layouts
+5
+d/Users/gcman105/devel/WAFoods/waf-n-ordering/layouts
+	default.vue
+2
+d/Users/gcman105/devel/WAFoods/waf-n-ordering
+	assets
 3
-d/Users/gcman105
-	.bash_profile
-44
-d/Users/gcman105/devel/PythonProjects/waf_dapp
-	sales
-9
-d/Users/gcman105/devel/PythonProjects/waf_dapp/sales
-	tests.py
-11
+d/Users/gcman105/devel/WAFoods/waf-n-ordering/assets
+	css
+1
+d/Users/gcman105/devel/WAFoods/waf-n-ordering/assets/css
+	tailwind.css
+1
+d/Users/gcman105/devel/WAFoods/waf-n-ordering
+	components
+4
+d/Users/gcman105/devel/WAFoods/waf-n-ordering/components
+	Logo.vue
+1
+d/Users/gcman105/devel/WAFoods/waf-n-ordering
+	layouts
+5
+d/Users/gcman105/devel/WAFoods/waf-n-ordering/layouts
+	default.vue
+2
+d/Users/gcman105/devel/WAFoods/waflamp-live
+	z_r8_common
+25
+d/Users/gcman105/devel/WAFoods/waflamp-live/z_r8_common
+	libs
+2
+d/Users/gcman105/devel/WAFoods/waflamp-live/z_r8_common/libs
+	z_r8_database_abstract_class_defs.lib.php
+3
+d/Users/gcman105/devel/WAFoods/waflamp-live
+	z_r8_common
+25
+d/Users/gcman105/devel/WAFoods/waflamp-live/z_r8_common
+	pdf_ros
+3
+d/Users/gcman105/devel/WAFoods/waflamp-live/z_r8_common/pdf_ros
+	data.txt
+4
+d/Users/gcman105/devel/WAFoods/waflamp-live
+	z_r8_common
+25
+d/Users/gcman105/devel/WAFoods/waflamp-live/z_r8_common
+	pdf_ros
+3
+d/Users/gcman105/devel/WAFoods/waflamp-live/z_r8_common/pdf_ros
+	class.pdf.php
+3
+d/Users/gcman105/dotfiles/dot-muttmail
+	mutt
+2
+d/Users/gcman105/dotfiles/dot-muttmail/mutt
+	muttrc
+8
+d/Users/gcman105/dotfiles/dot-nvim
+	UltiSnips
+2
+d/Users/gcman105/dotfiles/dot-nvim/UltiSnips
+	python.snippets
+1
+d/Users/gcman105/dotfiles/dot-nvim
+	UltiSnips
+2
+d/Users/gcman105/dotfiles/dot-nvim/UltiSnips
+	vim.snippets
+2
+d/Users/gcman105/dotfiles/dot-nvim
+	.gitignore
+6
+d/Users/gcman105/dotfiles/dot-vim
+	.gitignore
+3
 d
 
 # Right window history (oldest to newest):
-D/Users/gcman105/devel/hugo
-	blog_gcman105
-1
-D/Users/gcman105/devel/hugo/blog_gcman105
-	themes
-10
-D/Users/gcman105/devel/hugo/blog_gcman105/themes
-	hugo-theme-zzo
-2
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo
-	archetypes
-1
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/archetypes
-	..
-0
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo
-	assets
-2
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/assets
-	..
-0
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo
-	data
-3
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/data
-	..
-0
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo
-	exampleSite
-4
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/exampleSite
-	..
-0
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo
-	i18n
-5
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/i18n
-	..
-0
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo
-	images
-6
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/images
-	..
-0
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo
-	layouts
-7
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts
-	..
-0
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo
-	static
-8
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/static
-	..
-0
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo
-	layouts
-7
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts
-	..
-0
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo
-	layouts
-7
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts
-	_default
-1
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts/_default
-	..
-0
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts
-	_default
-1
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo/layouts/_default
-	..
-0
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo/layouts
-	..
-0
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo
-	..
-0
-D/Users/gcman105/devel/hugo/blog_gcman105/themes
-	hugo-theme-zzo
-2
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo
-	layouts
-7
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts
-	partials
-6
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts/partials
-	..
-0
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts
-	pt
-7
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts/pt
-	..
-0
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts
-	partials
-6
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts/partials
-	..
-0
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts
-	pt
-7
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts/pt
-	..
-0
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts
-	pt
-7
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts/pt
-	..
-0
-D/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-zzo/layouts
-	partials
-6
-D/Users/gcman105
-	Creative Cloud Files (archived) (1)
-6
-D/Users/gcman105/Creative Cloud Files (archived) (1)
-	..
-0
-D/Users/gcman105
-	..
-0
-D/Users
-	gcman105
-3
-D/Users/gcman105
-	devel
-28
-D/Users/gcman105/devel
-	PythonProjects
-12
-D/Users/gcman105/devel/PythonProjects
-	flask-starter
-2
-D/Users/gcman105/devel/PythonProjects/flask-starter
-	..
-0
 D/Users/gcman105/devel/PythonProjects
 	..
 0
@@ -515,6 +364,279 @@ D/Users
 D/Users/gcman105
 	..
 0
+D/Users/gcman105/devel/WAFoods/xs_waf
+	..
+0
+D/Users/gcman105/dotfiles/dot-vim
+	
+0
+D/Users/gcman105/devel/WAFoods/xs_waf
+	client
+1
+D/Users/gcman105/devel/WAFoods/xs_waf/client
+	..
+0
+D/Users/gcman105/devel/WAFoods/xs_waf
+	..
+0
+D/Users/gcman105/devel/WAFoods
+	x_waf_ordering
+12
+D/Users/gcman105/devel/WAFoods/x_waf_ordering
+	..
+0
+D/Users/gcman105/devel/WAFoods
+	x_waf_ordering
+12
+D/Users/gcman105/devel/WAFoods/xs_waf
+	..
+0
+D/Users/gcman105/apps/ansible/five57/roles_galaxy
+	geerlingguy.ansible
+1
+D/Users/gcman105/apps/ansible/five57/roles_galaxy/geerlingguy.ansible
+	..
+0
+D/Users/gcman105/apps/ansible/five57/roles_galaxy
+	robertdebock.python_pip
+9
+D/Users/gcman105/apps/ansible/five57/roles_galaxy/robertdebock.python_pip
+	..
+0
+D/Users/gcman105/apps/ansible/five57/roles_galaxy
+	geerlingguy.nginx
+7
+D/Users/gcman105/apps/ansible/five57/roles_galaxy/geerlingguy.nginx
+	tasks
+5
+D/Users/gcman105/apps/ansible/five57/roles_galaxy/geerlingguy.nginx/tasks
+	..
+0
+D/Users/gcman105/apps/ansible/five57/roles_galaxy/geerlingguy.nginx
+	..
+0
+D/Users/gcman105/apps/ansible/five57/roles_galaxy
+	robertdebock.nginx
+9
+D/Users/gcman105/apps/ansible/five57/roles_galaxy/robertdebock.nginx
+	vars
+7
+D/Users/gcman105/apps/ansible/five57/roles_galaxy/robertdebock.nginx/vars
+	..
+0
+D/Users/gcman105/apps/ansible/five57/roles_galaxy/robertdebock.nginx
+	..
+0
+D/Users/gcman105/apps/ansible/five57/roles_galaxy
+	geerlingguy.nginx
+7
+D/Users/gcman105/apps/ansible/five57/roles_galaxy/geerlingguy.nginx
+	tasks
+5
+D/Users/gcman105/apps/ansible/five57/roles_galaxy/geerlingguy.nginx/tasks
+	..
+0
+D/Users/gcman105/apps/ansible/five57/roles_galaxy/geerlingguy.nginx
+	defaults
+1
+D/Users/gcman105/apps/ansible/five57/roles_galaxy/geerlingguy.nginx/defaults
+	..
+0
+D/Users/gcman105/apps/ansible/five57/roles_galaxy/geerlingguy.nginx
+	meta
+3
+D/Users/gcman105/apps/ansible/five57/roles_galaxy/geerlingguy.nginx/meta
+	..
+0
+D/Users/gcman105/apps/ansible/five57/roles_galaxy/geerlingguy.nginx
+	molecule
+4
+D/Users/gcman105/apps/ansible/five57/roles_galaxy/geerlingguy.nginx/molecule
+	default
+1
+D/Users/gcman105/apps/ansible/five57/roles_galaxy/geerlingguy.nginx/molecule/default
+	..
+0
+D/Users/gcman105/apps/ansible/five57/roles_galaxy/geerlingguy.nginx/molecule
+	..
+0
+D/Users/gcman105/apps/ansible/five57/roles_galaxy/geerlingguy.nginx
+	templates
+6
+D/Users/gcman105/apps/ansible/five57/roles_galaxy/geerlingguy.nginx/templates
+	..
+0
+D/Users/gcman105/apps/ansible/five57/roles_galaxy/geerlingguy.nginx
+	vars
+7
+D/Users/gcman105/apps/ansible/five57/roles_galaxy/geerlingguy.nginx/vars
+	..
+0
+D/Users/gcman105/apps/ansible/five57/roles_galaxy/geerlingguy.nginx
+	..
+0
+D/Users/gcman105/apps/ansible/five57/roles_galaxy
+	geerlingguy.firewall
+4
+D/Users/gcman105/apps/ansible/five57/roles_galaxy/geerlingguy.firewall
+	..
+0
+D/Users/gcman105/apps/ansible/five57/roles_galaxy
+	..
+0
+D/Users/gcman105/apps/ansible/five57
+	..
+0
+D/Users/gcman105/apps/ansible
+	r8ansible
+2
+D/Users/gcman105/apps/ansible/r8ansible
+	group_vars
+1
+D/Users/gcman105/apps/ansible/r8ansible/group_vars
+	..
+0
+D/Users/gcman105/apps/ansible/r8ansible
+	ansible_init.yml
+2
+D/Users/gcman105/apps/ansible/wafapp
+	..
+0
+D/Users/gcman105/apps/ansible
+	..
+0
+D/Users/gcman105/apps
+	..
+0
+D/Users/gcman105
+	Applications
+2
+D/Users/gcman105/Applications
+	..
+0
+D/Users/gcman105
+	..
+0
+D/Users
+	..
+0
+D/
+	Applications
+0
+D/Applications
+	MailMate 2.app
+55
+D/Applications/MailMate 2.app
+	Contents
+1
+D/Applications/MailMate 2.app/Contents
+	Resources
+4
+D/Applications/MailMate 2.app/Contents/Resources
+	KeyBindings
+2
+D/Applications/MailMate 2.app/Contents/Resources/KeyBindings
+	..
+0
+D/Applications/MailMate 2.app/Contents/Resources
+	..
+0
+D/Applications/MailMate 2.app/Contents
+	..
+0
+D/Applications/MailMate 2.app
+	..
+0
+D/Applications
+	..
+0
+D/
+	home
+10
+D/home
+	..
+0
+D/
+	Applications
+0
+D/Applications
+	..
+0
+D/
+	Users
+4
+D/Users
+	gcman105
+3
+D/Users/gcman105
+	temp
+37
+D/Users/gcman105/temp
+	scoresreformed_prices-2.csv
+3
+D/Users/gcman105
+	temp
+37
+D/Users/gcman105/temp
+	scoresreformed_titles_2b.csv
+7
+D/Users/gcman105/Dropbox/Hemingway/exports
+	..
+0
+D/Users/gcman105/Dropbox/Hemingway
+	..
+0
+D/Users/gcman105/Dropbox
+	markdown
+45
+D/Users/gcman105/Dropbox/markdown
+	Image test.md
+3
+D/Users/gcman105
+	vimwiki
+38
+D/Users/gcman105/vimwiki
+	..
+0
+D/Users/gcman105
+	vimwiki
+38
+D/Users/gcman105/apps/ansible
+	r8ansible
+2
+D/Users/gcman105/apps/ansible/r8ansible
+	..
+0
+D/Users/gcman105/apps/ansible
+	five57
+1
+D/Users/gcman105/apps/ansible/five57
+	..
+0
+D/Users/gcman105/apps/ansible
+	roles_galaxy
+3
+D/Users/gcman105/apps/ansible/roles_galaxy
+	..
+0
+D/Users/gcman105/apps/ansible
+	wafapp
+5
+D/Users/gcman105/apps/ansible/wafapp
+	roles
+1
+D/Users/gcman105
+	
+0
+D/Users/gcman105/devel/WAFoods/waf-docs
+	
+0
+D/Users/gcman105/devel/WAFoods/waf-n-ordering
+	..
+0
+D/Users/gcman105/dotfiles/dot-nvim
+	
+0
 D
 
 # Command line history (oldest to newest):
@@ -535,14 +657,37 @@ D
 :f
 :edit
 :h
+:;q
+:marks
+:shell
+:mkdir
+:mkdir server
+:mkdir client
+:mkdir bin
+:mkdir www
+:mkdir public
+:mkdir routes
+:mkdir views
+:h create
+:t app.js
+:touch app.js
+:touch eslint.json
+:touch www
+:mkdir models
+:touch user.js
+:_q
 :q
 
 # Search history (oldest to newest):
 /rea
 /dev
 /wa
+/devel
+/vifm
 
 # Prompt history (oldest to newest):
+p.eslintrc.js
+p.eslintrc
 pANEWFILE.EXT
 ppackace.json
 pwebpack.config.js
@@ -555,11 +700,16 @@ phugo-theme-ojo
 ptest-js-sequence-diagrams.md
 ptemplate-post.md
 pmango-chutney.md
+pserver
+pscoresreformed_prices-2.csv
+pscoresreformed_titles_2a.csv
+pscoresreformed_titles_2b.csv
+pscoresreformed_titles_2.csv
 
 # Local filter history (oldest to newest):
 
 # Registers:
-""/Users/gcman105/devel/hugo/blog_gcman105/content/posts/template-post.md
+""/Users/gcman105/temp/scoresreformed_titles_2a.csv
 
 # Directory stack (oldest to newest):
 
@@ -582,6 +732,32 @@ t/Users/gcman105/.local/share/vifm/Trash/000_partials
 	/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo/layouts/partials/body/partials
 t/Users/gcman105/.local/share/vifm/Trash/001_partials
 	/Users/gcman105/devel/hugo/blog_gcman105/themes/hugo-theme-ojo/layouts/partials
+t/Users/gcman105/.local/share/vifm/Trash/000_public
+	/Users/gcman105/devel/WAFoods/xs_waf/public
+t/Users/gcman105/.local/share/vifm/Trash/000_routes
+	/Users/gcman105/devel/WAFoods/xs_waf/routes
+t/Users/gcman105/.local/share/vifm/Trash/000_views
+	/Users/gcman105/devel/WAFoods/xs_waf/views
+t/Users/gcman105/.local/share/vifm/Trash/000_www
+	/Users/gcman105/devel/WAFoods/xs_waf/server/bin/www
+t/Users/gcman105/.local/share/vifm/Trash/000_server
+	/Users/gcman105/devel/WAFoods/xs_waf/server
+t/Users/gcman105/.local/share/vifm/Trash/000_package.json
+	/Users/gcman105/devel/WAFoods/xs_waf/package.json
+t/Users/gcman105/.local/share/vifm/Trash/000_yarn.lock
+	/Users/gcman105/devel/WAFoods/xs_waf/yarn.lock
+t/Users/gcman105/.local/share/vifm/Trash/000_eslintrc.js
+	/Users/gcman105/devel/WAFoods/xs_waf/server/eslintrc.js
+t/Users/gcman105/.local/share/vifm/Trash/000_package-lock.json
+	/Users/gcman105/devel/WAFoods/xs_waf/server/package-lock.json
+t/Users/gcman105/.local/share/vifm/Trash/000_waf
+	/Users/gcman105/apps/ansible/waf
+t/Users/gcman105/.local/share/vifm/Trash/000_scoresreformed_titles_2b.csv
+	/Users/gcman105/temp/scoresreformed_titles_2b.csv
+t/Users/gcman105/.local/share/vifm/Trash/000_scoresreformed_titles_2.csv
+	/Users/gcman105/temp/scoresreformed_titles_2.csv
+t/Users/gcman105/.local/share/vifm/Trash/000_static2
+	/Users/gcman105/devel/PythonProjects/waf_dapp/static2
 
 # State:
 f
