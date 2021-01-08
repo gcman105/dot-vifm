@@ -34,312 +34,309 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/Users/gcman105/devel/WAFoods/xs_waf/client
-	..
-0
-d/Users/gcman105/devel/WAFoods/xs_waf
-	server
-4
-d/Users/gcman105/devel/WAFoods/xs_waf/server
-	src
-2
-d/Users/gcman105/devel/WAFoods/xs_waf/server/src
-	models
-6
-d/Users/gcman105/devel/WAFoods/xs_waf/server/src/models
-	..
-0
-d/Users/gcman105/devel/WAFoods/xs_waf/server/src
-	..
-0
-d/Users/gcman105/devel/WAFoods/xs_waf/server
-	..
-0
-d/Users/gcman105/devel/WAFoods/xs_waf
-	server
-4
-d/Users/gcman105/devel/WAFoods/xs_waf/server
-	src
-2
-d/Users/gcman105/devel/WAFoods/xs_waf/server/src
-	models
-6
-d/Users/gcman105/devel/WAFoods/xs_waf/server/src/models
-	..
-0
-d/Users/gcman105/devel/WAFoods/xs_waf/server/src
-	..
-0
-d/Users/gcman105/devel/WAFoods/xs_waf/server
-	..
-0
-d/Users/gcman105/devel/WAFoods/xs_waf
-	server
-4
-d/Users/gcman105/devel/WAFoods/xs_waf/server
-	yarn.lock
-10
-d/Users/gcman105/devel/WAFoods/xs_waf
-	.gitignore
-5
-d/Users/gcman105/apps/ansible/five57/roles
-	..
-0
-d/Users/gcman105/apps/ansible/wafapp
-	..
-0
-d/Users/gcman105/apps/ansible
-	five57
-1
-d/Users/gcman105/apps/ansible/five57
-	..
-0
-d/Users/gcman105/apps/ansible
-	..
-0
-d/Users/gcman105/apps
-	..
-0
 d/Users/gcman105
-	.config
-14
-d/Users/gcman105/.config
-	alacritty
-2
-d/Users/gcman105/.config/alacritty
-	alacritty.yml
-1
-d/Users/gcman105/Dropbox/Hemingway/exports
-	
-0
-d/Users/gcman105
-	
-0
-d/Users/gcman105/apps/ansible
-	
-0
-d/Volumes/Annes2TB-1/Downloads/2check
-	..
-0
-d/Volumes/Annes2TB-1/Downloads
-	2check
-1
-d/Users/gcman105/devel/PythonProjects/waf_dapp
-	static
-11
-d/Users/gcman105/devel/PythonProjects/waf_dapp/static
-	..
-0
-d/Users/gcman105/devel/PythonProjects/waf_dapp
-	static
-11
-d/Users/gcman105/devel/PythonProjects/waf_dapp/static
-	..
-0
-d/Users/gcman105/devel/PythonProjects/waf_dapp
-	static
-11
-d/Users/gcman105/devel/PythonProjects/waf_dapp/static
-	..
-0
-d/Users/gcman105/devel/PythonProjects/waf_dapp
-	static
-11
-d/Users/gcman105/devel/PythonProjects/waf_dapp/static
-	..
-0
-d/Users/gcman105/devel/PythonProjects/waf_dapp
-	manage.py
-23
-d/Users/gcman105/devel/PythonProjects
-	waf_dapp
-3
-d/Users/gcman105/devel/PythonProjects/waf_dapp
-	waf_dapp
-15
-d/Users/gcman105/devel/PythonProjects/waf_dapp/waf_dapp
-	settings.py
-6
-d/Users/gcman105/devel/PythonProjects/waf_dapp
-	static
-11
-d/Users/gcman105/devel/PythonProjects/waf_dapp/static
-	..
-0
-d/Users/gcman105/devel/PythonProjects/waf_dapp
-	..
-0
-d/Users/gcman105
-	..
-0
+	.mutt
+4
 d/Users
 	gcman105
 3
 d/Users/gcman105
-	devel
-55
-d/Users/gcman105/devel
-	WAFoods
-14
-d/Users/gcman105/devel/WAFoods
-	scoresreformed_titles_2a.csv
-16
-d/Users/gcman105
-	devel
-55
-d/Users/gcman105/devel
-	WAFoods
+	dot
+32
+d/Users/gcman105/dot
+	..
 0
 d/Users/gcman105
-	devel
-55
-d/Users/gcman105/devel
-	WAFoods
-14
-d/Users/gcman105/devel/WAFoods
-	waf-docs
+	dotfiles
+33
+d/Users/gcman105/dotfiles
+	dot-muttmail
 6
-d/Users/gcman105/devel/WAFoods/waf-docs
-	package.json
-7
-d/Users/gcman105/devel/WAFoods/waf-n-ordering
-	components
-4
-d/Users/gcman105/devel/WAFoods/waf-n-ordering/components
-	..
-0
-d/Users/gcman105/devel/WAFoods/waf-n-ordering
-	layouts
-5
-d/Users/gcman105/devel/WAFoods/waf-n-ordering/layouts
-	default.vue
-2
-d/Users/gcman105/devel/WAFoods/waf-n-ordering
-	pages
-8
-d/Users/gcman105/devel/WAFoods/waf-n-ordering/pages
-	index.vue
-2
-d/Users/gcman105/devel/WAFoods/waf-n-ordering
-	package.json
-22
-d/Users/gcman105/devel/WAFoods/waf-docs
-	docs
-2
-d/Users/gcman105/devel/WAFoods/waf-docs/docs
-	..
-0
-d/Users/gcman105/devel/WAFoods/waf-docs
-	docs
-2
-d/Users/gcman105/devel/WAFoods/waf-docs/docs
-	..
-0
-d/Users/gcman105/devel/WAFoods/waf-docs
-	docs
-2
-d/Users/gcman105/devel/WAFoods/waf-docs/docs
-	.vuepress
-1
-d/Users/gcman105/devel/WAFoods/waf-docs/docs/.vuepress
-	..
-0
-d/Users/gcman105/devel/WAFoods/waf-docs/docs
-	..
-0
-d/Users/gcman105/devel/WAFoods/waf-docs
-	docs
-2
-d/Users/gcman105/devel/WAFoods/waf-docs/docs
-	.vuepress
-1
-d/Users/gcman105/devel/WAFoods/waf-docs/docs/.vuepress
-	theme
-4
-d/Users/gcman105/devel/WAFoods/waf-n-ordering
-	layouts
-5
-d/Users/gcman105/devel/WAFoods/waf-n-ordering/layouts
-	default.vue
-2
-d/Users/gcman105/devel/WAFoods/waf-n-ordering
-	assets
-3
-d/Users/gcman105/devel/WAFoods/waf-n-ordering/assets
-	css
-1
-d/Users/gcman105/devel/WAFoods/waf-n-ordering/assets/css
-	tailwind.css
-1
-d/Users/gcman105/devel/WAFoods/waf-n-ordering
-	components
-4
-d/Users/gcman105/devel/WAFoods/waf-n-ordering/components
-	Logo.vue
-1
-d/Users/gcman105/devel/WAFoods/waf-n-ordering
-	layouts
-5
-d/Users/gcman105/devel/WAFoods/waf-n-ordering/layouts
-	default.vue
-2
-d/Users/gcman105/devel/WAFoods/waflamp-live
-	z_r8_common
-25
-d/Users/gcman105/devel/WAFoods/waflamp-live/z_r8_common
-	libs
-2
-d/Users/gcman105/devel/WAFoods/waflamp-live/z_r8_common/libs
-	z_r8_database_abstract_class_defs.lib.php
-3
-d/Users/gcman105/devel/WAFoods/waflamp-live
-	z_r8_common
-25
-d/Users/gcman105/devel/WAFoods/waflamp-live/z_r8_common
-	pdf_ros
-3
-d/Users/gcman105/devel/WAFoods/waflamp-live/z_r8_common/pdf_ros
-	data.txt
-4
-d/Users/gcman105/devel/WAFoods/waflamp-live
-	z_r8_common
-25
-d/Users/gcman105/devel/WAFoods/waflamp-live/z_r8_common
-	pdf_ros
-3
-d/Users/gcman105/devel/WAFoods/waflamp-live/z_r8_common/pdf_ros
-	class.pdf.php
-3
 d/Users/gcman105/dotfiles/dot-muttmail
 	mutt
-2
+3
+d/Users/gcman105/dotfiles/dot-muttmail/mutt
+	accounts
+1
+d/Users/gcman105/dotfiles/dot-muttmail/mutt/accounts
+	..
+0
 d/Users/gcman105/dotfiles/dot-muttmail/mutt
 	muttrc
 8
-d/Users/gcman105/dotfiles/dot-nvim
-	UltiSnips
-2
-d/Users/gcman105/dotfiles/dot-nvim/UltiSnips
-	python.snippets
-1
-d/Users/gcman105/dotfiles/dot-nvim
-	UltiSnips
-2
-d/Users/gcman105/dotfiles/dot-nvim/UltiSnips
-	vim.snippets
-2
-d/Users/gcman105/dotfiles/dot-nvim
-	.gitignore
-6
-d/Users/gcman105/dotfiles/dot-vim
-	.gitignore
+d/Users/gcman105/dotfiles/dot-muttmail
+	mutt
 3
+d/Users/gcman105/dotfiles/dot-muttmail/mutt
+	signatures
+3
+d/Users/gcman105/dotfiles/dot-muttmail/mutt/signatures
+	work
+2
+d/Users/gcman105/dotfiles/dot-muttmail/mutt
+	accounts
+1
+d/Users/gcman105/dotfiles/dot-muttmail/mutt/accounts
+	gcman105
+1
+d/Users/gcman105/dotfiles/dot-muttmail/mutt
+	accounts
+1
+d/Users/gcman105/dotfiles/dot-muttmail/mutt/accounts
+	gcman105
+1
+d/Users/gcman105/dotfiles/dot-muttmail/mutt
+	colors
+6
+d/Users/gcman105/dotfiles/dot-muttmail
+	mutt
+3
+d/Users/gcman105/dotfiles/dot-muttmail/mutt
+	accounts
+1
+d/Users/gcman105/dotfiles/dot-muttmail/mutt/accounts
+	..
+0
+d/Users/gcman105/dotfiles/dot-muttmail/mutt
+	accounts
+1
+d/Users/gcman105/dotfiles/dot-muttmail
+	mutt
+3
+d/Users/gcman105/dotfiles
+	dot-muttmail
+6
+d/Users/gcman105
+	Mail
+16
+d/Users/gcman105/Mail
+	Contacts
+1
+d/Users/gcman105
+	dotfiles
+31
+d/Users/gcman105/dotfiles
+	dot-muttmail
+6
+d/Users/gcman105/dotfiles/dot-muttmail
+	vdirsyncer
+4
+d/Users/gcman105/dotfiles/dot-muttmail/vdirsyncer
+	config
+1
+d/Users/gcman105/dotfiles/dot-muttmail
+	msmtprc
+8
+d/Users/gcman105/dotfiles
+	dot-muttmail
+6
+d/Users/gcman105/dotfiles/dot-muttmail
+	mutt
+3
+d/Users/gcman105/dotfiles/dot-muttmail/mutt
+	mailcap
+7
+d/Users/gcman105/dotfiles/dot-muttmail
+	mutt
+3
+d/Users/gcman105/dotfiles/dot-muttmail/mutt
+	muttrc
+8
+d/Users/gcman105/dotfiles/dot-muttmail
+	mbsyncrc
+7
+d/Users/gcman105/dotfiles
+	dot-muttmail
+6
+d/Users/gcman105/dotfiles/dot-muttmail
+	mutt
+3
+d/Users/gcman105/dotfiles/dot-muttmail/mutt
+	muttrc
+8
+d/Users/gcman105/dotfiles/dot-muttmail
+	mutt
+3
+d/Users/gcman105/dotfiles
+	dot-muttmail
+6
+d/Users/gcman105
+	dotfiles
+31
+d/Users
+	gcman105
+3
+d/Users/gcman105
+	.pylint.d
+4
+d/Users
+	gcman105
+3
+d/Users/gcman105
+	.qutebrowser
+5
+d/Users/gcman105/.qutebrowser
+	bookmarks
+1
+d/Users/gcman105/.qutebrowser/bookmarks
+	urls
+1
+d/Users/gcman105/.qutebrowser
+	bookmarks
+1
+d/Users/gcman105
+	.config
+15
+d/Users/gcman105/.config
+	joplin-desktop
+9
+d/Users/gcman105/.config/joplin-desktop
+	log-autoupdater.txt
+4
+d/Users/gcman105/.config
+	vifm
+18
+d/Users/gcman105
+	.configs
+16
+d/Users/gcman105/.configs
+	configstore
+1
+d/Users/gcman105/.configs/configstore
+	..
+0
+d/Users/gcman105/.configs
+	configstore
+1
+d/Users/gcman105
+	.vim
+43
+d/Users/gcman105/.vim
+	..
+0
+d/Users/gcman105
+	.vim
+43
+d/Users
+	gcman105
+3
+d/Users/gcman105
+	.qutebrowser
+27
+d/Users/gcman105/.qutebrowser
+	quickmarks
+2
+d/Users/gcman105
+	Dropbox
+62
+d/Users/gcman105/Dropbox
+	Obsidian
+23
+d/Users/gcman105/Dropbox/Obsidian
+	gcman105
+1
+d/Users/gcman105/Dropbox/Obsidian/gcman105
+	.obsidian
+1
+d/Users/gcman105/Dropbox/Obsidian/gcman105/.obsidian
+	..
+0
+d/Users/gcman105/Dropbox/Obsidian/gcman105
+	TODO.md
+34
+d/Users/gcman105/Dropbox/Obsidian
+	gcman105
+1
+d/Users/gcman105/Dropbox
+	Obsidian
+23
+d/Users/gcman105/Dropbox/Obsidian
+	gcman105
+1
+d/Users/gcman105/Dropbox/Obsidian/gcman105
+	..
+0
+d/Users/gcman105/Dropbox/Obsidian
+	gcman105
+1
+d/Users/gcman105/Dropbox/Obsidian/gcman105
+	obsidian.css
+31
+d/Users/gcman105/devel/Pinegrow/Tailwind/music4video
+	css
+2
+d/Users/gcman105/devel/Pinegrow/Tailwind/music4video/css
+	style.css
+1
+d/Users/gcman105/devel/Pinegrow/Tailwind/music4video
+	..
+0
+d/Users/gcman105/devel/Pinegrow/Tailwind
+	..
+0
+d/Users/gcman105/devel/Pinegrow
+	..
+0
+d/Users/gcman105/devel
+	..
+0
+d/Users/gcman105/devel/WAFoods/nwaf
+	pages
+8
+d/Users/gcman105/devel/WAFoods/nwaf/pages
+	index.vue
+2
+d/Users/gcman105/devel/PythonProjects/waf_dapp
+	sales
+11
+d/Users/gcman105/devel/PythonProjects/waf_dapp/sales
+	templates
+3
+d/Users/gcman105/devel/PythonProjects/waf_dapp/sales/templates
+	sales
+1
+d/Users/gcman105/devel/PythonProjects/waf_dapp/sales/templates/sales
+	order_list.html
+2
+d/Users/gcman105/devel/Auris/aurisdapp
+	auris
+2
+d/Users/gcman105/devel/Auris/aurisdapp/auris
+	settings.py
+4
+d/Users/gcman105/devel/PythonProjects/waf_dapp
+	sales
+11
+d/Users/gcman105/devel/PythonProjects/waf_dapp/sales
+	templates
+3
+d/Users/gcman105/devel/PythonProjects/waf_dapp/sales/templates
+	sales
+1
+d/Users/gcman105/devel/PythonProjects/waf_dapp/sales
+	templates
+3
+d/Users/gcman105/devel/PythonProjects/waf_dapp/sales/templates
+	sales
+1
+d/Users/gcman105/devel/PythonProjects/waf_dapp/sales/templates/sales
+	deliverynote_detail.html
+3
+d/Users/gcman105/devel/PythonProjects/waf_dapp
+	sales
+11
+d/Users/gcman105/devel/PythonProjects/waf_dapp/sales
+	templates
+3
+d/Users/gcman105/devel/PythonProjects/waf_dapp/sales/templates
+	sales
+1
+d/Users/gcman105/devel/PythonProjects/waf_dapp/sales/templates/sales
+	order_detail.html
+8
 d
 
 # Right window history (oldest to newest):
-D/Users/gcman105/devel/PythonProjects
-	..
-0
 D/Users/gcman105/devel
 	..
 0
@@ -637,6 +634,9 @@ D/Users/gcman105/devel/WAFoods/waf-n-ordering
 D/Users/gcman105/dotfiles/dot-nvim
 	
 0
+D/Users/gcman105/dotfiles/dot-muttmail
+	
+0
 D
 
 # Command line history (oldest to newest):
@@ -676,14 +676,18 @@ D
 :mkdir models
 :touch user.js
 :_q
+:Q
 :q
 
 # Search history (oldest to newest):
+/app
 /rea
 /dev
 /wa
 /devel
 /vifm
+/qute
+/Drop
 
 # Prompt history (oldest to newest):
 p.eslintrc.js
@@ -705,11 +709,14 @@ pscoresreformed_prices-2.csv
 pscoresreformed_titles_2a.csv
 pscoresreformed_titles_2b.csv
 pscoresreformed_titles_2.csv
+pgcman105
+pgmail105
+pojofoto
 
 # Local filter history (oldest to newest):
 
 # Registers:
-""/Users/gcman105/temp/scoresreformed_titles_2a.csv
+""/Users/gcman105/dotfiles/dot-muttmail/mutt/accounts/gcman105
 
 # Directory stack (oldest to newest):
 
@@ -758,6 +765,12 @@ t/Users/gcman105/.local/share/vifm/Trash/000_scoresreformed_titles_2.csv
 	/Users/gcman105/temp/scoresreformed_titles_2.csv
 t/Users/gcman105/.local/share/vifm/Trash/000_static2
 	/Users/gcman105/devel/PythonProjects/waf_dapp/static2
+t/Users/gcman105/.local/share/vifm/Trash/000_mailbox
+	/Users/gcman105/dotfiles/dot-muttmail/mutt/accounts/mailbox
+t/Users/gcman105/.local/share/vifm/Trash/000_viu
+	/Users/gcman105/dotfiles/dot-muttmail/mutt/accounts/viu
+t/Users/gcman105/.local/share/vifm/Trash/000_.git
+	/Users/gcman105/apps/obsidian_canillas/.git
 
 # State:
 f
